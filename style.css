@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+#blue-box {
+    border: 1px solid blue;
+    width: 50%;
+
+}
+#red-box {
+    border: 1px solid red;
+    width: 50%;
+}
